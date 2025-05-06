@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "nationality-plugin",
+			"path": "../nationality-plugin"
+		}
+	],
+	"settings": {}
+}
